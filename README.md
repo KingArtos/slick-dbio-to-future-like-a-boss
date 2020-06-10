@@ -41,6 +41,7 @@ package object dbioOps extends DatabaseComponent {
 ```
 This code allow functions to transform G in F
 >  G = Your repository monad
+
 >  F = Your service monad
 ```scala
 package object serviceHelper {
